@@ -1,4 +1,4 @@
-input_path = "F:\\advent_of_code\\inputs\\day1.txt"
+input_path = "F:\\advent_of_code\\inputs\\day_1.txt"
 with open(input_path, "r") as inp:
   ip = inp.readlines()
   for i in range(len(ip)):
